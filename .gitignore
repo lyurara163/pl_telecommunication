@@ -1,0 +1,23 @@
+# Build artifacts
+ufeq/build/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+*.idb
+*.bak
+*.bak_check
+.vs/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# Archives
+*.zip
+
+# Agent notes
+.learnings/
